@@ -9,7 +9,7 @@ This project analyzes pizza sales data using advanced SQL queries and visualizes
 ---
 
 ## 📊 Tools Used
-- PostgreSQL (SQL Queries)
+- MYSQL (SQL Queries)
 - Microsoft PowerPoint (Presentation)
 - GitHub (for version control)
 
