@@ -5,12 +5,12 @@ This project analyzes pizza sales data using advanced SQL queries and visualizes
 
 - 📈 Cumulative revenue over time
 - 🏆 Top 3 most ordered pizza types by revenue (per category)
+- and 15 more...
 
 ---
 
 ## 📊 Tools Used
 - MYSQL (SQL Queries)
-- Microsoft PowerPoint (Presentation)
 - GitHub (for version control)
 
 ---
